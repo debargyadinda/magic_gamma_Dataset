@@ -35,7 +35,7 @@ The MAGIC Gamma Telescope dataset is publicly available and can be accessed via 
 3. Run the following code to train and evaluate the models:
 
     ```bash
-    python src/main.py
+    python main.py
     ```
 
 ## License
